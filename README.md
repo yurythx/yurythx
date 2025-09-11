@@ -67,9 +67,13 @@ Minhas competências técnicas são divididas em duas áreas principais: **gest�
 ---
 
 <div> 
-  <a href="https://www.instagram.com/davi.sem.d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/davi.sem.d/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-  <a href="www.linkedin.com/in/yuri-miranda-de-menezes-277058194"></a> 
+<a href="https://www.linkedin.com/in/yuri-miranda-de-menezes-277058194" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
 
 
